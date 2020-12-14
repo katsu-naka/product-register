@@ -1,5 +1,4 @@
 # Travis-CI用の設定ファイル
-
 # １権限設定
 sudo: required
 # ２Dockerを使う
